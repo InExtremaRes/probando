@@ -1,2 +1,2 @@
 # A title
-Some texxt.
+Some text.
